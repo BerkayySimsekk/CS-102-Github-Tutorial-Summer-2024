@@ -1,2 +1,20 @@
 Berkay Şimşek - 22303338
 Elden Ring
+
+commit 2959af673fc25d32ee462338c5368af897039457 (HEAD -> main, origin/main)
+Merge: 5919181 2653182
+Author: Berkay Şimşek <berkay132504@outlook.com>
+Date:   Wed Jun 12 20:20:39 2024 +0300
+
+    Merge pull request #1 from BerkayySimsekk/new_information
+    
+    <berkay> updated info.txt
+
+commit 26531828272453a88d6bdef37e3aea139364bc14 (origin/new_information, new_information)
+Author: Berkay <berkay132504@outlook.com>
+Date:   Wed Jun 12 20:19:36 2024 +0300
+
+    <berkay> updated info.txt
+
+commit 59191815a11f33c131ad6a4c0f2dbe4a0aa3012c
+Author: Berkay <berkay132504@outlook.com>
